@@ -1,0 +1,10 @@
+{
+  "welcome": "Welcome. This is a loan calculator. We will help you figure out how long it will take to pay off the loan.",
+  "loanAmountMessage": "Enter the loan amount.",
+  "aprMessage":  "What is the Annual Percentage Rate (APR)?\nEnter the percentage. (Ex: 5 % => 5)",
+  "loanDurationMessage": "What is the loan duration in months ? (1 year = 12 months)",
+  "continueMessage": "Do you want to do another Calculation? 1: Yes, 2: No",
+  "invalidValueMessage": "This is not a valid value. Try again.",
+  "userInputsMessage": "Below is the info you entered.",
+  "monthlyPaymentMessage": "This is your monthly payment"
+}
