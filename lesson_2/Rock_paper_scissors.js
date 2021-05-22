@@ -81,6 +81,7 @@ function playAgain () {
 }
 
 
+// eslint-disable-next-line no-unmodified-loop-condition
 while (repeat) {
   prompt(`Score: Player: ${playerScore}, Computer: ${computerScore}`);
   let playerChoice = getPlayerChoice();
